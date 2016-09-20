@@ -5,7 +5,7 @@ date:   2016-09-20 14:55:00 +0000
 categories: handicapped-users competitors project2
 ---
 
-# CameraMouse -  A CameraMouse Competitor 
+# Camera Mouse -  A CameraMouse Competitor 
 
 It has the same name as my software. That was not deliberate might be that I have seen this software before and my subconscious made me name my software the same.
 
@@ -33,6 +33,5 @@ The Camera Mouse is a free software that allows the person control the mouse poi
 
 
 ### Further Information
-*** Todo find link ***
-[Chrome Store link](https://chrome.google.com/webstore/detail/opendyslexic/cdnapgfjopgaggbmfgbiinmmbdcglnam)
+http://www.cameramouse.org/
 
